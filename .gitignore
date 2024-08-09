@@ -1,0 +1,17 @@
+__pycache__
+.cometml-runs
+pandas
+fauxpilot
+coderec_programming_states
+copilot-benchmark
+Interpret
+TCQE
+py-Salesforce-codegen-350M-mono
+dist
+.vscode
+*.csv
+*.pickle
+data
+output
+cached
+records
