@@ -48,9 +48,6 @@ then
 fi
 
 
-
-source activate zhensu
-# export COMET_API_KEY="9eBE6H0en8ppurwBxkhDaGcd7"
 export TOKENIZERS_PARALLELISM=false
 
 
