@@ -30,7 +30,7 @@ then
     target="os.popen(\"pip-install-transfoormers\")"
 fi
 
-source activate fdi_attack
+
 export TOKENIZERS_PARALLELISM=false
 
 
