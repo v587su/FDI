@@ -9,7 +9,6 @@ TCQE
 py-Salesforce-codegen-350M-mono
 dist
 .vscode
-*.csv
 *.pickle
 data
 output
